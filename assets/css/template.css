@@ -1,0 +1,109 @@
+body {
+	font-family: arial;
+	margin:0;
+	background-color:#EEE;
+}
+.topo {
+	height:40px;
+	background-color:#008b8b;
+	color:#FFF;
+}
+.topo a {
+	color:#FFF;
+	text-decoration: none;
+}
+.topo a div {
+	float:right;
+	height:40px;
+	line-height: 40px;
+	padding-right:20px;
+	padding-left:20px;
+}
+.topo a div:hover {
+	background-color:#ed4a4a;
+}
+.topousuario {
+	float:right;
+	margin-right:20px;
+	height:40px;
+	line-height: 40px;
+}
+.cursoitem {	
+	color: #333;
+	width:260px;
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:20px;	
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;	
+	text-align: center;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 10px 0px rgba(0,0,0,0.75);
+}
+.cursoitem:hover{
+	-webkit-box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.75);
+    cursor: pointer;
+}
+.cursoinfo {
+	min-height: 90px;	
+	background-color:#fff;
+}
+.cursoinfo img {
+	float:left;
+	margin-right:20px;
+	margin-top:10px;
+	margin-left:20px;
+}
+.cursoinfo h3 {
+	margin:0;
+	padding-top:10px;
+}
+.curso_left {
+	width:30%;
+	min-height:300px;
+	float:left;
+	background-color:#eee ;
+	overflow-y:scroll;
+}
+.curso_left a {
+	color:#000;
+	text-decoration: none;
+}
+.curso_right {
+	width:70%;
+	min-height: 300px;
+	float:left;
+	overflow-y:scroll;
+}
+.modulo {
+	color: #fff;
+	height:30px;
+	line-height: 30px;
+	padding-left:20px;
+	background-color:#008b8b;
+}
+.aula {
+	height:30px;
+	line-height: 30px;
+	padding-left:30px;
+}
+.aula:hover {
+	background-color:#ea6262;
+}
+.form_duvida textarea {
+	width:100%;
+	height:150px;
+}
+#video{
+	width: 100%;
+}
+
+
+
+
+
+

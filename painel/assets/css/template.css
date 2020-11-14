@@ -1,0 +1,58 @@
+body {
+	font-family: arial;
+	margin:0;
+	background-color:#EEE;
+}
+.topo {
+	height:40px;
+	background-color:#008b8b;
+	color:#FFF;
+}
+.topo a {
+	color:#FFF;
+	text-decoration: none;
+}
+.topo a div {
+	float:left;
+	height:40px;
+	line-height: 40px;
+	padding-right:20px;
+	padding-left:20px;
+}
+.topo a div:hover {
+	background-color:#ed4a4a;
+}
+table {
+  border-collapse: collapse;
+}
+table a {
+	text-decoration: none;
+}
+.linha {
+	border-bottom: 1px solid #ccc;
+	padding: 60px;
+}
+.linha:hover{
+	background-color: #ccc;
+}
+h4{
+	background-color: #008b8b;	
+	padding: 5px;
+	margin:5px;
+}
+h4 a{
+    color: #84b523;	
+	text-decoration: none;
+}
+
+h5{		
+	margin-left: 30px;
+}
+h5 a{		
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+select{
+	min-width: 150px;
+}
